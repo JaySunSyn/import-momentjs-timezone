@@ -1,0 +1,29 @@
+{
+  "name": "import-momentjs-timezone",
+  "version": "1.0.0",
+  "authors": [
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
+  ],
+  "description": "The import element of the moment-timezone library.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "momentjs",
+    "moment-timezone",
+    "import"
+  ],
+  "main": "import-momentjs-timezone.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/JaySunSyn/import-momentjs-timezone.git",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "moment-timezone": "~0.4.0"
+  },
+  "devDependencies": {}
+}
